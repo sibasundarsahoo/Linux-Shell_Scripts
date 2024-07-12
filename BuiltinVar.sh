@@ -1,7 +1,7 @@
 #!/bin/bash
 
 read -p "Please Enter your Name:" name
-read -p "Your Id :" id
+read -p "Your Id please:" id
 
 echo "Hiii $name you are Now $USER user and working in $PWD directory."
 
